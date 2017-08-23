@@ -24,5 +24,3 @@ declare msj nvarchar(20);
 end; **
 delimiter ;
 
-call guardaAlumno('bet', 'bet', 'bet', 'bet');
-select * from tablita;
